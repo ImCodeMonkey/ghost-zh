@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /**
- * 这里是ghostwill主题的基础样式
+ * ghostwill主题的基础样式
  * author:@罗罗磊磊
  * url: http://this.is26.com
  * blog: http://luolei.org
@@ -623,7 +623,6 @@ a {
   height: 32rem;
   background: transparent;
   background-size: cover;
-  box-shadow: 0 1px 1px #efefef;
   z-index: 1; }
 
 .banner-mask {
@@ -633,9 +632,9 @@ a {
   left: 0;
   top: 0;
   background: #fff;
-  background-image: linear-gradient(to bottom, white, #ededed);
+  background-image: linear-gradient(to bottom, white, #d9d9d9);
   background-repeat: repeat-x;
-  opacity: .8;
+  opacity: .4;
   z-index: -2; }
 
 .site-head-content {

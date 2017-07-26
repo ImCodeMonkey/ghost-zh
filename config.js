@@ -11,7 +11,7 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'http://my-ghost-blog.com',
+        url: 'http://ImCodeMonkey.github.io',
         mail: {},
         database: {
             client: 'sqlite3',
@@ -43,7 +43,7 @@ config = {
         storage: {
             provider: 'local-file-store'
         }
-
+        
         // or
         // 参考文档： http://www.ghostchina.com/qiniu-cdn-for-ghost/
         /*storage: {

@@ -326,7 +326,6 @@ $('.post-template').ready(function(){
             $('.post-cover-info').addClass('animated fadeOutUp');
             $('.cover-slide-more h4').show().addClass('animated fadeInDown');
         },function(){
-            console.log('重现');
             $(this).removeClass('hoverLight');
             $('.post-cover-info').removeClass('fadeOutUp');
             $('.post-cover-info').addClass('fadeInDown');

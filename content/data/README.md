@@ -1,3 +1,3 @@
 # Content / Data
 
-This is the home of your Ghost database, do not overwrite this folder or any of the files inside of it.
+数据库文件夹，不要覆盖数据库文件
